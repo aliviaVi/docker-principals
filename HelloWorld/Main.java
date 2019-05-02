@@ -6,6 +6,7 @@ public class Main {
         System.out.println("Hello world");
         System.out.println("Hello from Andrew");
        // System.out.println("Hello again");
+        // one more komment
         while(flag != false) {
             System.out.println("I'm alive!");
             Thread.sleep(1000);
